@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\bin\Debug\netcoreapp3.1\SocketFileTransmitter.exe
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\bin\Debug\netcoreapp3.1\SocketFileTransmitter.deps.json
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\bin\Debug\netcoreapp3.1\SocketFileTransmitter.runtimeconfig.json
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\bin\Debug\netcoreapp3.1\SocketFileTransmitter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\bin\Debug\netcoreapp3.1\SocketFileTransmitter.dll
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\bin\Debug\netcoreapp3.1\SocketFileTransmitter.pdb
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\obj\Debug\netcoreapp3.1\SocketFileTransmitter.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\obj\Debug\netcoreapp3.1\SocketFileTransmitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\obj\Debug\netcoreapp3.1\SocketFileTransmitter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\obj\Debug\netcoreapp3.1\SocketFileTransmitter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\obj\Debug\netcoreapp3.1\SocketFileTransmitter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\obj\Debug\netcoreapp3.1\SocketFileTransmitter.dll
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\obj\Debug\netcoreapp3.1\SocketFileTransmitter.pdb
+C:\Users\Admin\source\repos\SocketFileTransmitter\SocketFileTransmitter\obj\Debug\netcoreapp3.1\SocketFileTransmitter.genruntimeconfig.cache
